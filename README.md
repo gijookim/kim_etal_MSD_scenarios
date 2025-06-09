@@ -17,7 +17,7 @@ Kim, G.J., O'Neill, B., Morris, J., Wise, M., Weyant, J., and Lamontagne, J. (su
 ## Repository Overview
 This repository is designed to provide the necessary inputs to reproduce the data and figures found in Kim et al. (2025). "Identifying the Uncertainties and Drivers of Future Human Outcomes through a Multisector Scenario Ensemble."<br />
 Follow the 
-All results found in the queried_outputs/ directory are queried outputs from the Global Change Analysis Model (GCAM) runs used for the study. A minted version of GCAM version 7.1 used for this experiment and complete output databases can be provided upon request to the corresponding author. Main text figures and select supplementary figures can be found in figures/ with Jupyter Notebook scripts to reproduce such figures found scripts/.
+All results found in the queried_outputs/ directory are queried outputs from the Global Change Analysis Model (GCAM) runs used for the study. A minted version of GCAM version 7.1 used for this experiment and complete output databases can be provided upon request to the corresponding author. Main text figures and select supplementary figures can be found in figures/ with Jupyter Notebook scripts to reproduce such figures found ```scripts/```.
 
 ## Reproduce the Experiment
 1) First, you need to build GCAM v7.1 with multiple consumer representation for the food sector. Follow the instructions in the GCAM documentation (available at https://jgcri.github.io/gcam-doc/index.html) regarding how to build, compile, and run GCAM.
