@@ -24,7 +24,7 @@ All results found in the queried_outputs/ directory are queried outputs from the
 2) Generate scenario xml that correspond to each scenario in the ensemble. The total number of scenario xmls should match the number of scenarios in the ensemble (i.e., 3,888 scenario xmls in this study). Follow the codes in ```scripts/Config_Generation_MSD_Scenarios.ipynb``` to generate the scenario xmls. Before building the scenario xml, you will need to place the ```run_gcam/addon``` directory and the files within into your ```/gcam-core/input``` directory. Generated scenario xmls should be separately saved in a directory (e.g., ```/config_ensemble``` directory).
 3) Run GCAM (preferably in a High-Perfomance Computing environment with parallelization) and save the output databases in a separate directory. Refer to ```/run_gcam/msd_ensemble.sh``` for an example of a batch file used to run GCAM in a HPC environment.
 4) Check the results of your runs and save the list of successful runs, using the codes in ```scripts/Ensemble_Simulation_Quality_Check.ipynb```.
-5) Run the following queries on successful runs and save them into a separate directory. For the results used in this study, you should run the following 7 queries, which can be found in ```/run_gcam/query_xmls```. Save the query results in a separate directory for further analysis.
+5) Run the following queries on successful runs and save them into a separate directory. For the results used in this study, you should run the following 9 queries, which can be found in ```/run_gcam/query_xmls```. Save the query results in a separate directory for further analysis.
    * ag_commodity_prices
    * ag_production_by_subsector
    * basin_level_available_runoff
