@@ -23,7 +23,8 @@ Because of file size/count restrictions, files in the ```processed_data``` and `
 * All files in the ```figure_map_input``` directory are necessary files that are required for figure generation with maps.<br />
 * All files in the ```processed data``` directory are necessary files that are required for figure generation.<br />
 * All files in the ```run_gcam``` directory are necessary files to replicate our experiment, especially when running GCAM.<br />
-* All files in the ```scripts``` directory are necessary files that are required for data organization, data processing, and figure generation.<br />
+* All files in the ```scripts``` directory are necessary files that are required for data organization, data processing, and figure generation.<br />.
+
 A minted version of GCAM version 7.1 used for this experiment and complete output databases can be provided upon request to the corresponding author. <br />
 
 ## Reproduce the Experiment
