@@ -1,0 +1,33 @@
+,scenario,year,region,group,value,consumer,resid_energy_burden
+0,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Africa_Eastern,1,0.2802037,d1,0.13575293597640906
+1,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Africa_Northern,1,0.1630465,d1,0.09183632747464734
+2,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Africa_Southern,1,0.2474312,d1,0.1422303006065082
+3,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Africa_Western,1,0.24386280000000002,d1,0.19664702456272132
+4,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Argentina,1,0.1291487,d1,0.047857266547296606
+5,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Australia_NZ,1,0.06167584000000001,d1,0.014946316466361938
+6,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Brazil,1,0.1109802,d1,0.013059928628761087
+7,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Canada,1,0.056636490000000005,d1,0.07864150808870508
+8,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Central America and Caribbean,1,0.256718,d1,0.06834414826326635
+9,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Central Asia,1,0.2298439,d1,0.08463033337474007
+10,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,China,1,0.2326818,d1,0.032708275944389416
+11,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Colombia,1,0.16660419999999998,d1,0.019218781413144214
+12,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,EU-12,1,0.06468623,d1,0.0331227731799896
+13,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,EU-15,1,0.06271744,d1,0.032885526874037216
+14,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Europe_Eastern,1,0.09077429999999999,d1,0.1964986496559346
+15,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Europe_Non_EU,1,0.1337103,d1,0.025734122966549255
+16,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,European Free Trade Association,1,0.05926041,d1,0.024481199873466718
+17,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,India,1,0.1937632,d1,0.05758730343976392
+18,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Indonesia,1,0.2506733,d1,0.042281840659300476
+19,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Japan,1,0.1350642,d1,0.027970863246871553
+20,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Mexico,1,0.1106724,d1,0.01574965092244906
+21,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Middle East,1,0.1918784,d1,0.22214749180648571
+22,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Pakistan,1,0.1458617,d1,0.09314337136207244
+23,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Russia,1,0.08896699000000001,d1,0.13525100703907156
+24,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,South Africa,1,0.1935656,d1,0.06084760081897369
+25,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,South America_Northern,1,0.2256128,d1,0.03765596929686089
+26,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,South America_Southern,1,0.18947809999999998,d1,0.02192680493407404
+27,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,South Asia,1,0.27851250000000005,d1,0.04859008136593635
+28,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,South Korea,1,0.15972809999999998,d1,0.023041343305261693
+29,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Southeast Asia,1,0.2539205,d1,0.028118477659027745
+30,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,Taiwan,1,0.052459570000000004,d1,0.02884368376613325
+31,kim_mcfe_ref_soc2_ag2_fd0_bldRef_ipsl_res0_icd2,2015,USA,1,0.08947040999999999,d1,0.012773579546521712
