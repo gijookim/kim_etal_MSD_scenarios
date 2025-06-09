@@ -1,0 +1,412 @@
+,Basin,Basin_GLU,Region
+1,Pacific_and_Arctic_Coast,PacArctic,USA
+2,Saskatchewan_Nelson,NelsonR,USA
+3,Fraser,FraserR,USA
+4,Mexico_Northwest_Coast,MexCstNW,USA
+5,Caribbean,Caribbean,USA
+6,Micronesia,Micronesia,USA
+7,California_River_Basin,California,USA
+8,Upper_Mississippi_Basin,MissppRN,USA
+9,Lower_Mississippi_River_Basin,MissppRS,USA
+10,Upper_Colorado_River_Basin,UsaColoRN,USA
+11,Lower_Colorado_River_Basin,UsaColoRS,USA
+12,Great_Basin,GreatBasin,USA
+13,Missouri_River_Basin,MissouriR,USA
+14,Arkansas_White_Red_Basin,ArkWhtRedR,USA
+15,Texas_Gulf_Coast_Basin,TexasCst,USA
+16,South_Atlantic_Gulf_Basin,UsaCstSE,USA
+17,Great_Lakes_Basin,GreatLakes,USA
+18,Ohio_River_Basin,OhioR,USA
+19,Pacific_Northwest_Basin,UsaPacNW,USA
+20,Tennessee_River_Basin,TennR,USA
+21,Rio_Grande_River_Basin,RioGrande,USA
+22,New_England_Basin,UsaCstNE,USA
+23,Mid_Atlantic_Basin,UsaCstE,USA
+24,Hawaii,Hawaii,USA
+25,Nile,NileR,Africa_Eastern
+26,Africa_Red_Sea_Gulf_of_Aden_Coast,AfrCstNE,Africa_Eastern
+27,Africa_North_Interior,AfrIntN,Africa_Eastern
+28,Lake_Chad,LChad,Africa_Eastern
+29,Shebelli_Juba,ShebJubR,Africa_Eastern
+30,Africa_East_Central_Coast,AfrCstE,Africa_Eastern
+31,Madagascar,Madagascar,Africa_Eastern
+32,Rift_Valley,RiftValley,Africa_Eastern
+33,Congo,CongoR,Africa_Eastern
+34,Mediterranean_Sea_East_Coast,MeditE,Africa_Northern
+35,Mediterranean_South_Coast,MeditS,Africa_Northern
+36,Africa_North_West_Coast,AfrCstNW,Africa_Northern
+37,Nile,NileR,Africa_Northern
+38,Dead_Sea,DeadSea,Africa_Northern
+39,Sinai_Peninsula,SinaiP,Africa_Northern
+40,Africa_Red_Sea_Gulf_of_Aden_Coast,AfrCstNE,Africa_Northern
+41,Africa_North_Interior,AfrIntN,Africa_Northern
+42,Niger,NigerR,Africa_Northern
+43,Lake_Chad,LChad,Africa_Northern
+44,Nile,NileR,Africa_Southern
+45,Gulf_of_Guinea,GuineaGulf,Africa_Southern
+46,Africa_East_Central_Coast,AfrCstE,Africa_Southern
+47,Rift_Valley,RiftValley,Africa_Southern
+48,Angola_Coast,AngolaCst,Africa_Southern
+49,Congo,CongoR,Africa_Southern
+50,Zambezi,ZambeziR,Africa_Southern
+51,Africa_Indian_Ocean_Coast,AfrCstSE,Africa_Southern
+52,Orange,OrangeR,Africa_Southern
+53,Namibia_Coast,AfrCstSW,Africa_Southern
+54,Africa_South_Interior,AfrIntS,Africa_Southern
+55,South_Africa_South_Coast,AfrCstS,Africa_Southern
+56,Limpopo,LimpopoR,Africa_Southern
+57,Africa_North_West_Coast,AfrCstNW,Africa_Western
+58,Nile,NileR,Africa_Western
+59,Africa_West_Coast,AfrCstW,Africa_Western
+60,Africa_North_Interior,AfrIntN,Africa_Western
+61,Niger,NigerR,Africa_Western
+62,Lake_Chad,LChad,Africa_Western
+63,Senegal,SenegalR,Africa_Western
+64,Volta,VoltaR,Africa_Western
+65,Gulf_of_Guinea,GuineaGulf,Africa_Western
+66,Congo,CongoR,Africa_Western
+67,Zambezi,ZambeziR,Africa_Western
+68,Java_Timor,JavaTimor,Australia_NZ
+69,Australia_North_Coast,AusCstN,Australia_NZ
+70,Australia_East_Coast,AusCstE,Australia_NZ
+71,Australia_West_Coast,AusCstW,Australia_NZ
+72,Australia_Interior,AusInt,Australia_NZ
+73,New_Zealand,NewZealand,Australia_NZ
+74,Australia_South_Coast,AusCstS,Australia_NZ
+75,Murray_Darling,MurrayDrlg,Australia_NZ
+76,Tasmania,Tasmania,Australia_NZ
+77,Antarctica,Antarctica,Australia_NZ
+78,Orinoco,OrinocoR,Brazil
+79,Northeast_South_America_South_Atlantic_Coast,SAmerCstNE,Brazil
+80,Amazon,AmazonR,Brazil
+81,North_Brazil_South_Atlantic_Coast,BrzCstN,Brazil
+82,Tocantins,TocantinsR,Brazil
+83,East_Brazil_South_Atlantic_Coast,BrzCstE,Brazil
+84,Parnaiba,ParnaibaR,Brazil
+85,Sao_Francisco,SaoFrancR,Brazil
+86,Uruguay_Brazil_South_Atlantic_Coast,BrzCstS,Brazil
+87,La_Plata,RioLaPlata,Brazil
+88,Northwest_Territories,NWTerr,Canada
+89,Pacific_and_Arctic_Coast,PacArctic,Canada
+90,Mackenzie,Mackenzie,Canada
+91,Hudson_Bay_Coast,HudsonBay,Canada
+92,Atlantic_Ocean_Seaboard,CanAtl,Canada
+93,Saskatchewan_Nelson,NelsonR,Canada
+94,Fraser,FraserR,Canada
+95,Churchill,ChurchillR,Canada
+96,St_Lawrence,StLwrncR,Canada
+97,Missouri_River_Basin,MissouriR,Canada
+98,Great_Lakes_Basin,GreatLakes,Canada
+99,Pacific_Northwest_Basin,UsaPacNW,Canada
+100,New_England_Basin,UsaCstNE,Canada
+101,Caribbean,Caribbean,Central America and Caribbean
+102,Yucatan_Peninsula,YucatanP,Central America and Caribbean
+103,Grijalva_Usumacinta,GrijUsuR,Central America and Caribbean
+104,Southern_Central_America,CntAmer,Central America and Caribbean
+105,Caribbean_Coast,SAmerCstN,Central America and Caribbean
+106,Colombia_Ecuador_Pacific_Coast,ColEcuaCst,Central America and Caribbean
+107,Volga,VolgaR,Central Asia
+108,Ural,UralR,Central Asia
+109,Gobi_Interior,Gobi,Central Asia
+110,Amur,AmurR,Central Asia
+111,Caspian_Sea_Coast,CaspianNE,Central Asia
+112,Black_Sea_North_Coast,BlackSeaN,Central Asia
+113,Yenisey,YeniseiR,Central Asia
+114,Caspian_Sea_East_Coast,CaspianE,Central Asia
+115,Ob,ObR,Central Asia
+116,Amu_Darya,AmuDaryaR,Central Asia
+117,Lake_Balkash,LBalkash,Central Asia
+118,Black_Sea_South_Coast,BlackSeaS,Central Asia
+119,Caspian_Sea_South_West_Coast,CaspianSW,Central Asia
+120,Syr_Darya,SyrDaryaR,Central Asia
+121,Tarim_Interior,Tarim,Central Asia
+122,Russia_South_East_Coast,RusCstSE,China
+123,Gobi_Interior,Gobi,China
+124,Amur,AmurR,China
+125,Ob,ObR,China
+126,Amu_Darya,AmuDaryaR,China
+127,Bo_Hai_Korean_Bay_North_Coast,BoHai,China
+128,Lake_Balkash,LBalkash,China
+129,Syr_Darya,SyrDaryaR,China
+130,Ziya_He_Interior,ZiyaHe,China
+131,China_Coast,ChinaCst,China
+132,Huang_He,HuangHeR,China
+133,Tarim_Interior,Tarim,China
+134,Indus,IndusR,China
+135,Plateau_of_Tibet_Interior,Tibet,China
+136,Yangtze,Yangtze,China
+137,Xun_Jiang,XunJiang,China
+138,Hong_(Red_River),Hong,China
+139,Ganges_Bramaputra,GangesR,China
+140,South_China_Sea_Coast,SChinaSea,China
+141,Hainan,Hainan,China
+142,Mekong,Mekong,China
+143,Salween,Salween,China
+144,Irrawaddy,IrrawaddyR,China
+145,Baltic_Sea_Coast,BalticSea,EU-12
+146,Denmark_Germany_Coast,DnkGrmCst,EU-12
+147,Narva,NarvaR,EU-12
+148,Daugava,DaugavaR,EU-12
+149,Oder,OderR,EU-12
+150,Wisla,WislaR,EU-12
+151,Elbe,ElbeR,EU-12
+152,Poland_Coast,PolandCst,EU-12
+153,Neman,NemanR,EU-12
+154,Dniester,DniesterR,EU-12
+155,Danube,DanubeR,EU-12
+156,Adriatic_Sea_Greece_Black_Sea_Coast,AdrBlkSea,EU-12
+157,Mediterranean_Sea_Islands,MeditIsl,EU-12
+158,Mediterranean_Sea_East_Coast,MeditE,EU-12
+159,Arctic_Ocean_Islands,ArcticIsl,EU-15
+160,Scandinavia_North_Coast,ScndnvN,EU-15
+161,Sweden,Sweden,EU-15
+162,Finland,Finland,EU-15
+163,Scotland,Scotland,EU-15
+164,Neva,NevaR,EU-15
+165,Atlantic_Ocean_Seaboard,CanAtl,EU-15
+166,Denmark_Germany_Coast,DnkGrmCst,EU-15
+167,Ireland,Ireland,EU-15
+168,England_and_Wales,EngWales,EU-15
+169,Ems_Weser,EmsWeserR,EU-15
+170,Oder,OderR,EU-15
+171,Elbe,ElbeR,EU-15
+172,Rhine,RhineR,EU-15
+173,Scheldt,ScheldtR,EU-15
+174,France_West_Coast,FranceCstW,EU-15
+175,Loire,LoireR,EU-15
+176,Seine,SeineR,EU-15
+177,Italy_East_Coast,ItalyCstE,EU-15
+178,Danube,DanubeR,EU-15
+179,Adriatic_Sea_Greece_Black_Sea_Coast,AdrBlkSea,EU-15
+180,Po,PoR,EU-15
+181,Italy_West_Coast,ItalyCstW,EU-15
+182,Spain_Portugal_Atlantic_Coast,IberiaCst,EU-15
+183,France_South_Coast,FranceCstS,EU-15
+184,Rhone,RhoneR,EU-15
+185,Mediterranean_Sea_Islands,MeditIsl,EU-15
+186,Gironde,Gironde,EU-15
+187,Spain_South_and_East_Coast,SpainCstSE,EU-15
+188,Tiber,TiberR,EU-15
+189,Tagus,TagusR,EU-15
+190,Ebro,EbroR,EU-15
+191,Douro,DouroR,EU-15
+192,Mediterranean_Sea_East_Coast,MeditE,EU-15
+193,Mediterranean_South_Coast,MeditS,EU-15
+194,Guadiana,GuadianaR,EU-15
+195,Guadalquivir,GuadalqR,EU-15
+196,Africa_North_West_Coast,AfrCstNW,EU-15
+197,Caribbean,Caribbean,EU-15
+198,India_South_Coast,IndCstS,EU-15
+199,Angola_Coast,AngolaCst,EU-15
+200,South_Pacific_Islands,NewCaledn,EU-15
+201,South_Argentina_South_Atlantic_Coast,ArgCstS,EU-15
+202,Antarctica,Antarctica,EU-15
+203,Neva,NevaR,Europe_Eastern
+204,Daugava,DaugavaR,Europe_Eastern
+205,Wisla,WislaR,Europe_Eastern
+206,Neman,NemanR,Europe_Eastern
+207,Dnieper,DnieperR,Europe_Eastern
+208,Black_Sea_North_Coast,BlackSeaN,Europe_Eastern
+209,Dniester,DniesterR,Europe_Eastern
+210,Don,DonR,Europe_Eastern
+211,Danube,DanubeR,Europe_Eastern
+212,Danube,DanubeR,Europe_Non_EU
+213,Adriatic_Sea_Greece_Black_Sea_Coast,AdrBlkSea,Europe_Non_EU
+214,Black_Sea_South_Coast,BlackSeaS,Europe_Non_EU
+215,Caspian_Sea_South_West_Coast,CaspianSW,Europe_Non_EU
+216,Mediterranean_Sea_East_Coast,MeditE,Europe_Non_EU
+217,Tigris_Euphrates,TigrEuphR,Europe_Non_EU
+218,Eastern_Jordan_Syria,EJrdnSyr,Europe_Non_EU
+219,Arctic_Ocean_Islands,ArcticIsl,European Free Trade Association
+220,Scandinavia_North_Coast,ScndnvN,European Free Trade Association
+221,Iceland,Iceland,European Free Trade Association
+222,Sweden,Sweden,European Free Trade Association
+223,Rhine,RhineR,European Free Trade Association
+224,Danube,DanubeR,European Free Trade Association
+225,Po,PoR,European Free Trade Association
+226,Rhone,RhoneR,European Free Trade Association
+227,Indus,IndusR,India
+228,Sabarmati,SabarmatiR,India
+229,Ganges_Bramaputra,GangesR,India
+230,Mahi,MahiR,India
+231,Bay_of_Bengal_North_East_Coast,BengalBay,India
+232,Tapti,TaptiR,India
+233,Yasai,BengalW,India
+234,Brahamani,BrahmaniR,India
+235,Mahandi,MahanadiR,India
+236,Godavari,GodavariR,India
+237,India_North_East_Coast,IndCstNE,India
+238,India_West_Coast,IndCstW,India
+239,Irrawaddy,IrrawaddyR,India
+240,Krishna,KrishnaR,India
+241,Andaman_Nicobar_Islands,AdnNicIsl,India
+242,India_East_Coast,IndCstE,India
+243,Pennar,PennarR,India
+244,Cauvery,CauveryR,India
+245,India_South_Coast,IndCstS,India
+246,Narmada,NarmadaR,India
+247,Palau_and_East_Indonesia,IdnE,Indonesia
+248,North_Borneo_Coast,BorneoCstN,Indonesia
+249,Sumatra,Sumatra,Indonesia
+250,Sulawesi,Sulawesi,Indonesia
+251,Kalimantan,Kalimantan,Indonesia
+252,Irian_Jaya_Coast,IrianJaya,Indonesia
+253,Java_Timor,JavaTimor,Indonesia
+254,Sepik,SepikR,Indonesia
+255,Fly,FlyR,Indonesia
+256,Japan,Japan,Japan
+257,Taiwan,Taiwan,Japan
+258,Baja_California,MexBaja,Mexico
+259,Mexico_Northwest_Coast,MexCstNW,Mexico
+260,North_Gulf,MexGulf,Mexico
+261,Yucatan_Peninsula,YucatanP,Mexico
+262,Mexico_Interior,MexInt,Mexico
+263,Pacific_Central_Coast,MexCstW,Mexico
+264,Papaloapan,Papaloapan,Mexico
+265,Rio_Lerma,RioLerma,Mexico
+266,Rio_Verde,RioVerde,Mexico
+267,Grijalva_Usumacinta,GrijUsuR,Mexico
+268,Rio_Balsas,RioBalsas,Mexico
+269,Southern_Central_America,CntAmer,Mexico
+270,Isthmus_of_Tehuantepec,Tehuantpc,Mexico
+271,California_River_Basin,California,Mexico
+272,Lower_Colorado_River_Basin,UsaColoRS,Mexico
+273,Rio_Grande_River_Basin,RioGrande,Mexico
+274,Caspian_Sea_East_Coast,CaspianE,Middle East
+275,Caspian_Sea_South_West_Coast,CaspianSW,Middle East
+276,Mediterranean_Sea_East_Coast,MeditE,Middle East
+277,Central_Iran,Iran,Middle East
+278,Tigris_Euphrates,TigrEuphR,Middle East
+279,Persian_Gulf_Coast,PersianGulf,Middle East
+280,Farahrud,FarahrudR,Middle East
+281,Red_Sea_East_Coast,RedSeaE,Middle East
+282,Arabian_Peninsula,ArabianP,Middle East
+283,Dead_Sea,DeadSea,Middle East
+284,Helmand,Helmand,Middle East
+285,Sinai_Peninsula,SinaiP,Middle East
+286,Eastern_Jordan_Syria,EJrdnSyr,Middle East
+287,Africa_Red_Sea_Gulf_of_Aden_Coast,AfrCstNE,Middle East
+288,HamuniMashkel,HamuMashR,Middle East
+289,Arabian_Sea_Coast,ArabianSea,Middle East
+290,Amu_Darya,AmuDaryaR,Pakistan
+291,Tarim_Interior,Tarim,Pakistan
+292,Indus,IndusR,Pakistan
+293,Helmand,Helmand,Pakistan
+294,HamuniMashkel,HamuMashR,Pakistan
+295,Arabian_Sea_Coast,ArabianSea,Pakistan
+296,Sabarmati,SabarmatiR,Pakistan
+297,Arctic_Ocean_Islands,ArcticIsl,Russia
+298,Siberia_North_Coast,SiberiaN,Russia
+299,Siberia_West_Coast,SiberiaW,Russia
+300,Kara_Sea_Coast,KaraSea,Russia
+301,Lena,LenaR,Russia
+302,Scandinavia_North_Coast,ScndnvN,Russia
+303,Russia_Barents_Sea_Coast,BarentsSea,Russia
+304,Finland,Finland,Russia
+305,Northern_Dvina,DvinaRN,Russia
+306,Neva,NevaR,Russia
+307,Volga,VolgaR,Russia
+308,Baltic_Sea_Coast,BalticSea,Russia
+309,Narva,NarvaR,Russia
+310,Daugava,DaugavaR,Russia
+311,Poland_Coast,PolandCst,Russia
+312,Neman,NemanR,Russia
+313,Russia_South_East_Coast,RusCstSE,Russia
+314,Ural,UralR,Russia
+315,Dnieper,DnieperR,Russia
+316,Gobi_Interior,Gobi,Russia
+317,Amur,AmurR,Russia
+318,Caspian_Sea_Coast,CaspianNE,Russia
+319,Black_Sea_North_Coast,BlackSeaN,Russia
+320,Yenisey,YeniseiR,Russia
+321,Don,DonR,Russia
+322,Ob,ObR,Russia
+323,Black_Sea_South_Coast,BlackSeaS,Russia
+324,Caspian_Sea_South_West_Coast,CaspianSW,Russia
+325,Syr_Darya,SyrDaryaR,Russia
+326,Orange,OrangeR,South Africa
+327,Namibia_Coast,AfrCstSW,South Africa
+328,South_Africa_South_Coast,AfrCstS,South Africa
+329,Limpopo,LimpopoR,South Africa
+330,South_Africa_West_Coast,AfrCstSSW,South Africa
+331,Antarctica,Antarctica,South Africa
+332,Caribbean_Coast,SAmerCstN,South America_Northern
+333,Orinoco,OrinocoR,South America_Northern
+334,Northeast_South_America_South_Atlantic_Coast,SAmerCstNE,South America_Northern
+335,Magdalena,MagdalenaR,South America_Northern
+336,Amazon,AmazonR,South America_Northern
+337,Colombia_Ecuador_Pacific_Coast,ColEcuaCst,South America_Southern
+338,Amazon,AmazonR,South America_Southern
+339,South_Chile_Pacific_Coast,ChileCstS,South America_Southern
+340,Peru_Pacific_Coast,PeruCst,South America_Southern
+341,South_Pacific_Islands,NewCaledn,South America_Southern
+342,Uruguay_Brazil_South_Atlantic_Coast,BrzCstS,South America_Southern
+343,La_Puna_Region,LaPuna,South America_Southern
+344,Salinas_Grandes,Salinas,South America_Southern
+345,La_Plata,RioLaPlata,South America_Southern
+346,North_Chile_Pacific_Coast,ChileCstN,South America_Southern
+347,South_America_Colorado,ArgColoR,South America_Southern
+348,Negro,NegroR,South America_Southern
+349,South_Argentina_South_Atlantic_Coast,ArgCstS,South America_Southern
+350,Caspian_Sea_East_Coast,CaspianE,South Asia
+351,Amu_Darya,AmuDaryaR,South Asia
+352,Indus,IndusR,South Asia
+353,Farahrud,FarahrudR,South Asia
+354,Helmand,Helmand,South Asia
+355,HamuniMashkel,HamuMashR,South Asia
+356,Ganges_Bramaputra,GangesR,South Asia
+357,Bay_of_Bengal_North_East_Coast,BengalBay,South Asia
+358,Sri_Lanka,SriLanka,South Asia
+359,North_and_South_Korea,Korea,South Korea
+360,Russia_South_East_Coast,RusCstSE,Southeast Asia
+361,North_and_South_Korea,Korea,Southeast Asia
+362,Bo_Hai_Korean_Bay_North_Coast,BoHai,Southeast Asia
+363,Xun_Jiang,XunJiang,Southeast Asia
+364,Hong_(Red_River),Hong,Southeast Asia
+365,Ganges_Bramaputra,GangesR,Southeast Asia
+366,South_China_Sea_Coast,SChinaSea,Southeast Asia
+367,Bay_of_Bengal_North_East_Coast,BengalBay,Southeast Asia
+368,Philippines,Phlppns,Southeast Asia
+369,North_Marina_Islands_and_Guam,Guam,Southeast Asia
+370,Mekong,Mekong,Southeast Asia
+371,Viet_Nam_Coast,VietnamCst,Southeast Asia
+372,Salween,Salween,Southeast Asia
+373,Irrawaddy,IrrawaddyR,Southeast Asia
+374,Sittang,SittaungR,Southeast Asia
+375,Peninsula_Malaysia,MalaysiaP,Southeast Asia
+376,Chao_Phraya,ChaoPhrR,Southeast Asia
+377,Gulf_of_Thailand_Coast,ThaiGulf,Southeast Asia
+378,Micronesia,Micronesia,Southeast Asia
+379,Palau_and_East_Indonesia,IdnE,Southeast Asia
+380,North_Borneo_Coast,BorneoCstN,Southeast Asia
+381,Sumatra,Sumatra,Southeast Asia
+382,Kalimantan,Kalimantan,Southeast Asia
+383,Irian_Jaya_Coast,IrianJaya,Southeast Asia
+384,Papua_New_Guinea_Coast,PapuaCst,Southeast Asia
+385,Java_Timor,JavaTimor,Southeast Asia
+386,Solomon_Islands,SolomonIsl,Southeast Asia
+387,Madagascar,Madagascar,Southeast Asia
+388,Sepik,SepikR,Southeast Asia
+389,Fly,FlyR,Southeast Asia
+390,South_Pacific_Islands,NewCaledn,Southeast Asia
+391,Australia_East_Coast,AusCstE,Southeast Asia
+392,China_Coast,ChinaCst,Taiwan
+393,Taiwan,Taiwan,Taiwan
+394,South_Chile_Pacific_Coast,ChileCstS,Argentina
+395,La_Puna_Region,LaPuna,Argentina
+396,Mar_Chiquita,MarChiq,Argentina
+397,Salinas_Grandes,Salinas,Argentina
+398,La_Plata,RioLaPlata,Argentina
+399,North_Chile_Pacific_Coast,ChileCstN,Argentina
+400,Pampas_Region,Pampas,Argentina
+401,North_Argentina_South_Atlantic_Coast,ArgCstN,Argentina
+402,South_America_Colorado,ArgColoR,Argentina
+403,Negro,NegroR,Argentina
+404,Central_Patagonia_Highlands,Patagonia,Argentina
+405,South_Argentina_South_Atlantic_Coast,ArgCstS,Argentina
+406,Southern_Central_America,CntAmer,Colombia
+407,Caribbean_Coast,SAmerCstN,Colombia
+408,Orinoco,OrinocoR,Colombia
+409,Colombia_Ecuador_Pacific_Coast,ColEcuaCst,Colombia
+410,Magdalena,MagdalenaR,Colombia
+411,Amazon,AmazonR,Colombia
