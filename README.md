@@ -21,7 +21,7 @@ Kim, G.J., O'Neill, B., Morris, J., Wise, M., Weyant, J., and Lamontagne, J. (su
 This repository is designed to provide the necessary inputs to reproduce the data and figures found in Kim et al. (2025). "Identifying the Uncertainties and Drivers of Future Human Outcomes through a Multisector Scenario Ensemble."<br />
 Because of file size/count restrictions, files in the ```processed_data``` and ```run_gcam``` respositories are available at the supplementary Zenodo repository (https://doi.org/10.5281/zenodo.15587981).<br />
 * All files in the ```figure_map_input``` directory are necessary files that are required for figure generation with maps.<br />
-* All files in the ```processed data``` directory are necessary files that are required for figure generation.<br />
+* All files in the ```processed_data``` directory are necessary files that are required for figure generation.<br />
 * All files in the ```run_gcam``` directory are necessary files to replicate our experiment, especially when running GCAM.<br />
 * All files in the ```scripts``` directory are necessary files that are required for data organization, data processing, and figure generation.<br />
 
