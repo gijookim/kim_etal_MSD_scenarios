@@ -1,5 +1,6 @@
 # Identifying the Uncertainties and Drivers of Future Human Outcomes through a Multisector Scenario Ensemble
-Gi Joo Kim<sup>1,5,*</sup> Brian O’Neill<sup>2</sup> Jennifer Morris<sup>3</sup> Marshall Wise<sup>2</sup> John Weyant,<sup>4</sup> and Jonathan Lamontagne<sup>1</sup>
+Gi Joo Kim,<sup>1,5,*</sup> Brian O’Neill,<sup>2</sup> Jennifer Morris,<sup>3</sup> Marshall Wise,<sup>2</sup> John Weyant,<sup>4</sup> and Jonathan Lamontagne<sup>1</sup>
+
 <sup>1</sup>Department of Civil and Environmental Engineering, Tufts University, Medford, MA 02155, USA
 <sup>2</sup>Joint Global Change Research Institute, Pacific Northwest National Laboratory, College Park, 
 MD 20740, USA
