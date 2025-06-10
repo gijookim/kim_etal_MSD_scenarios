@@ -36,6 +36,19 @@ A minted version of GCAM version 7.1 used for this experiment and complete outpu
 Names of queries required in this study are: ```ag_commodity_prices, ag_production_by_subsector, basin_level_available_runoff, building_service_costs, building_service_output_by_service, food_demand_shares_from_market, subregional_income, subregional_population, and water_withdrawals_by_water_source_runoff_vs_groundwater```.
 
 
+## Interpret Scenario Names
+Each scenario in the ensemble is named according to the following format: ```kim_mcfe_A_B_C_D_E_F_G_H```. Refer below for details:
+* kim_mcfe: shared prefix across all scenarios (mcfe: multiple consumers for food and energy)
+* A - CO2 Emissions and Land Conservation Scenarios: ref (increasing CO2 emissions scenario), ndc (decreasing CO2 emissions without land conservation scenario), ndl (decreasing CO2 emissions with land conservation scenario)
+* B - Population and GDP: soc2 (SSP2), soc3 (SSP3), soc5 (SSP5)
+* C - Agricultural Productivity Growth Rate: ag1 (high), ag2 (medium), ag3 (low)
+* D - Food Demand Sensitivity: fd0 (reference), fd1 (high sensitivity)
+* E - Building Energy Efficiency and Energy Demand Sensitivity): bldRef (reference efficiency, reference sensitivity), bldSatLevel (reference efficiency, high sensitivity), bldBEE (high efficiency, reference sensitivity), bldBEESatLevel (high efficiency, high sensitivity)
+* F - Global Climate Models (GCMs): gfdl (GFDL-ESM4), ipsl (IPSL-CM6A-LR), canesm5 (CANESM5)
+* G - Reservoir Expansion: res0 (restricted), res1 (expanded)
+* H - Income Distributions: icd2 (SSP2), icd3 (SSP3), icd5 (SSP5)
+
+
 ## Reproduce the Analysis
 1) First, you need to organize the query results. Refer to the script in ```scripts/Ensemble_Data_Organization.ipynb```.
 2) Using the organized query results, compute the food-energy-water security metrics used in this study: (1) food burden, (2) residential energy burden, and (3) physical water scarcity. When computing the metrics, refer to the codes in the script ```A```. 
