@@ -33,12 +33,14 @@ A minted version of GCAM version 7.1 used for this experiment and complete outpu
 3) Run GCAM (preferably in a High-Perfomance Computing environment with parallelization) and save the output databases in a separate directory. Refer to ```/run_gcam/msd_ensemble.sh``` for an example of a batch file used to run GCAM in a HPC environment.
 4) Check the results of your runs and save the list of successful and unsuccessful runs using the codes in ```scripts/Ensemble_Simulation_Quality_Check.ipynb```.
 5) Run the following queries on successful runs and save them into a separate directory. For the results used in this study, you should run the following 9 queries, which can be found in ```/run_gcam/query_xmls```.<br />
-```ag_commodity_prices, ag_production_by_subsector, basin_level_available_runoff, building_service_costs, building_service_output_by_service, food_demand_shares_from_market, subregional_income, subregional_population, and water_withdrawals_by_water_source_runoff_vs_groundwater```
+```ag_commodity_prices, ag_production_by_subsector, basin_level_available_runoff, building_service_costs, building_service_output_by_service, food_demand_shares_from_market, subregional_income, subregional_population, and water_withdrawals_by_water_source_runoff_vs_groundwater```.
+
 
 ## Reproduce the Analysis
-1) First, you need to organize the and compute the metrics used in this study: food burden, residential energy burden, and physical water scarcity. Refer to the codes in the script ```/run_gcam/query_xmls``` to process the data for analysis.
+1) First, you need to organize the and compute the metrics used in this study: food burden, residential energy burden, and physical water scarcity using the query results. Refer to the codes in the script ```/run_gcam/query_xmls``` to process the data for analysis.
 2) Follow the scripts in ```scripts/``` to generate the figures in figure/ directory.
-3) 
+3) Scripts to draw Figures *-*, Figures S*-S* are included in
+4) 
 
 ## Data Reference
 This repository is supplementary to the following Zenodo repository: https://doi.org/10.5281/zenodo.15587981.<br />
