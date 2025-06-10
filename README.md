@@ -19,11 +19,11 @@ Kim, G.J., O'Neill, B., Morris, J., Wise, M., Weyant, J., and Lamontagne, J. (su
 
 ## Repository Overview
 This repository is designed to provide the necessary inputs to reproduce the data and figures found in Kim et al. (2025). "Identifying the Uncertainties and Drivers of Future Human Outcomes through a Multisector Scenario Ensemble."<br />
-Because of file size/count restrictions, files in the ```processed_data``` and ```run_gcam``` respositories are available at the supplementary Zenodo repository (https://doi.org/10.5281/zenodo.15587981).<br />
-* All files in the ```figure_map_input``` directory are necessary files that are required for figure generation with maps.<br />
-* All files in the ```processed_data``` directory are necessary files that are required for figure generation.<br />
-* All files in the ```run_gcam``` directory are necessary files to replicate our experiment, especially when running GCAM.<br />
-* All files in the ```scripts``` directory are necessary files that are required for data organization, data processing, and figure generation.<br />
+Because of file size/count restrictions, files in the ```processed_data``` and ```run_gcam``` directories are available at the supplementary Zenodo repository (https://doi.org/10.5281/zenodo.15587981).<br />
+* All files in the ```figure_map_input``` directory are necessary to generate figures containing maps.<br />
+* All files in the ```processed_data``` directory are processed data files that are required for figure generation.<br />
+* All files in the ```run_gcam``` directory are necessary files to replicate the experiment, particularly when running GCAM.<br />
+* All files in the ```scripts``` directory are necessary files that contain the codes required for data organization, data processing, and figure generation.<br />
 
 A minted version of GCAM version 7.1 used for this experiment and complete output databases can be provided upon request to the corresponding author.<br />
 
@@ -31,8 +31,8 @@ A minted version of GCAM version 7.1 used for this experiment and complete outpu
 1) First, you need to build GCAM v7.1 with multiple consumer representation for the food sector. Follow the instructions in the GCAM documentation (available at https://jgcri.github.io/gcam-doc/index.html) regarding how to build, compile, and run GCAM.
 2) Generate scenario xml that correspond to each scenario in the ensemble. The total number of scenario xmls should match the number of scenarios in the ensemble (i.e., 3,888 scenario xmls in this study). Follow the codes in ```scripts/Config_Generation_MSD_Scenarios.ipynb``` to generate the scenario xmls. Before building the scenario xml, you will need to place the ```run_gcam/addon``` directory and the files within into your ```/gcam-core/input``` directory. Generated scenario xmls should be separately saved in a directory (e.g., ```/config_ensemble``` directory).
 3) Run GCAM (preferably in a High-Perfomance Computing environment with parallelization) and save the output databases in a separate directory. Refer to ```/run_gcam/msd_ensemble.sh``` for an example of a batch file used to run GCAM in a HPC environment.
-4) Check the results of your runs and save the list of successful runs, using the codes in ```scripts/Ensemble_Simulation_Quality_Check.ipynb```.
-5) Run the following queries on successful runs and save them into a separate directory. For the results used in this study, you should run the following 9 queries, which can be found in ```/run_gcam/query_xmls```. Save the query results in a separate directory for further analysis.
+4) Check the results of your runs and save the list of successful and unsuccessful runs using the codes in ```scripts/Ensemble_Simulation_Quality_Check.ipynb```.
+5) Run the following queries on successful runs and save them into a separate directory. For the results used in this study, you should run the following 9 queries, which can be found in ```/run_gcam/query_xmls```.<br />
 ```ag_commodity_prices, ag_production_by_subsector, basin_level_available_runoff, building_service_costs, building_service_output_by_service, food_demand_shares_from_market, subregional_income, subregional_population, and water_withdrawals_by_water_source_runoff_vs_groundwater```
 
 ## Reproduce the Analysis
