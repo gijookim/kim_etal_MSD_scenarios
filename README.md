@@ -38,7 +38,7 @@ Names of queries required in this study are: ```ag_commodity_prices, ag_producti
 
 ## Interpret Scenario Names
 Each scenario in the ensemble is named according to the following format: ```kim_mcfe_A_B_C_D_E_F_G_H```. Refer below for details:
-* kim_mcfe: shared prefix across all scenarios (mcfe: multiple consumers for food and energy)
+* ```kim_mcfe```: shared prefix across all scenarios (mcfe: multiple consumers for food and energy)
 * ```A``` - CO2 Emissions and Land Conservation Scenarios: ```ref``` (increasing CO2 emissions scenario), ```ndc``` (decreasing CO2 emissions without land conservation scenario), ```ndl``` (decreasing CO2 emissions with land conservation scenario)
 * ```B``` - Population and GDP: ```soc2``` (SSP2), ```soc3``` (SSP3), ```soc5``` (SSP5)
 * ```C``` - Agricultural Productivity Growth Rate: ```ag1``` (high), ```ag2``` (medium), ```ag3``` (low)
