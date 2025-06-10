@@ -37,10 +37,13 @@ Names of queries required in this study are: ```ag_commodity_prices, ag_producti
 
 
 ## Reproduce the Analysis
-1) First, you need to organize the and compute the metrics used in this study: food burden, residential energy burden, and physical water scarcity using the query results. Refer to the codes in the script ```/run_gcam/query_xmls``` to process the data for analysis.
-2) Follow the scripts in ```scripts/``` to generate the figures in figure/ directory.
-3) Scripts to draw Figures *-*, Figures S*-S* are included in
-4) 
+1) First, you need to organize the query results. Refer to the script in ```scripts/Ensemble_Data_Organization.ipynb```.
+2) Using the organized query results, compute the food-energy-water security metrics used in this study: (1) food burden, (2) residential energy burden, and (3) physical water scarcity. When computing the metrics, refer to the codes in the script ```A```. 
+3) Follow the scripts in ```scripts/Figure_Generation``` to generate the figures in figure/ directory.
+* ```scripts/Figure_Generation/Figure_Generation.ipynb```: scripts to draw main Figures 1-7
+* ```scripts/Figure_Generation/4-1_Regression_Tree_Analysis.R```: scripts to perform regression tree analysis for main Figure 3
+* ```scripts/Figure_Generation/4-2_Classification_Tree_Analysis.R```: scripts to perform classification tree analysis for main Figures 5-7
+* ```scripts/Figure_Generation/Figure_Generation_SI.ipynb```: scripts to draw Figures in SI: Figures S1-S20
 
 ## Data Reference
 This repository is supplementary to the following Zenodo repository: https://doi.org/10.5281/zenodo.15587981.<br />
