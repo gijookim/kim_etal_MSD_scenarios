@@ -44,7 +44,7 @@ Each scenario in the ensemble is named according to the following format: ```kim
 * ```C``` - Agricultural Productivity Growth Rate: ```ag1``` (high), ```ag2``` (medium), ```ag3``` (low)
 * ```D``` - Food Demand Sensitivity: ```fd0``` (reference), ```fd1``` (high sensitivity)
 * ```E``` - Building Energy Efficiency and Energy Demand Sensitivity: ```bldRef``` (reference efficiency, reference sensitivity), ```bldSatLevel``` (reference efficiency, high sensitivity), ```bldBEE``` (high efficiency, reference sensitivity), ```bldBEESatLevel``` (high efficiency, high sensitivity)
-* ```F``` - Global Climate Models (GCMs): ```gfdl``` (GFDL-ESM4), ```ipsl``` (IPSL-CM6A-LR), ```canesm5``` (CANESM5)
+* ```F``` - Earth System Models (ESMs): ```gfdl``` (GFDL-ESM4), ```ipsl``` (IPSL-CM6A-LR), ```canesm5``` (CANESM5)
 * ```G``` - Reservoir Expansion: ```res0``` (restricted), ```res1``` (expanded)
 * ```H``` - Income Distributions: ```icd2``` (SSP2), ```icd3``` (SSP3), ```icd5``` (SSP5)
 
